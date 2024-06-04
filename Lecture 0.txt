@@ -1,0 +1,16 @@
+What do you need for the course:
+
+-> Patience to code
+-> Patience to code
+-> Patience to code
+-> Patience to code
+
+
+What actually need:
+
+-> Patience to code
+-> An IDE
+-> Googling skills
+-> Get good in c++
+
+Download and setup Vs code locally for better understanding and practice.
