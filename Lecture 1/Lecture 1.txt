@@ -1,0 +1,20 @@
+Programing language helps us to communicate with the computer and solve complex problems in a defined way.
+
+Why learn C++
+
+-> Efficiency - helps to solve problem faster
+
+-> Strong abstraction capabilities
+
+-> Standard Template Library(STL)
+
+-> Best in Resource Constrained Environment
+
+-> Strong typing and compile-time check
+
+
+IDE helps us to write code faster and more efficient
+
+High level language can be understand by humans but Low level language can be understand by computers.
+
+Compiler can convert high level language to low level language.
